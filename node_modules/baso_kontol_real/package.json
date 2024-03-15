@@ -1,0 +1,25 @@
+{
+  "name": "baso_kontol_real",
+  "version": "1.1.4",
+  "description": "baso kontol",
+  "main": "hello.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrfanDect/baso_real.git"
+  },
+  "keywords": [
+    "baso"
+  ],
+  "author": "haxor333",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IrfanDect/baso_real/issues"
+  },
+  "homepage": "https://github.com/IrfanDect/baso_real#readme",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}

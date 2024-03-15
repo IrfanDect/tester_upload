@@ -1,0 +1,28 @@
+{
+  "name": "testnet_tea",
+  "version": "1.1.1",
+  "description": "hello",
+  "main": "kontol",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "irfanDect",
+  "license": "Type license() to see the full license text",
+  "bugs": {
+    "url": "https://github.com/issues"
+  },
+  "homepage": "https://github.com#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "baso_kontol_real": "^1.1.4",
+    "requests": "^0.3.0",
+    "yarn": "^1.22.22"
+  }
+}
